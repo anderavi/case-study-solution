@@ -24,4 +24,4 @@ mvn clean install -DbillsLocation=<folder path to bills. end with a ‘/’ >
 
 The text and json folder will be generated in the same billsLocation folder
 
-Project also available in github @ 
+Project also available in github @ https://github.com/anderavi/case-study-solution
